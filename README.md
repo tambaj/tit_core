@@ -1,1 +1,1 @@
-# tit_core
+# tit_core Dashboard
